@@ -1,0 +1,4 @@
+*.blob
+.DS_Store
+first-01/data
+first-01/my-counter/build
